@@ -41,7 +41,7 @@ public class not {
     double ortalama = nottop/ 6.0;
 
     System.out.println("Not ortalamanız : " + ortalama);
-    System.out.println(ortalama >= 60 ? "Sınıfı Geçti." : "Sınıfta Kaldı.");
+    System.out.println(ortalama >= 59 ? "Sınıfı Geçti." : "Sınıfta Kaldı.");
 
 
 
