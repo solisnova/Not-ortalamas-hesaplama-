@@ -5,7 +5,7 @@ public class not {
     
     Scanner mesaj = new Scanner(System.in);
 
-    System.out.println("türkçe dersi notunuzu giriniz : ");
+    System.out.println("Türkçe dersi notunuzu giriniz : ");
     int turk;
     turk = mesaj.nextInt();
 
@@ -15,7 +15,7 @@ public class not {
     mat = mesaj.nextInt();
     
 
-    System.out.println("fizik dersi notunuzu giriniz : ");
+    System.out.println("Fizik dersi notunuzu giriniz : ");
     int fizik ;
     fizik = mesaj.nextInt();
 
